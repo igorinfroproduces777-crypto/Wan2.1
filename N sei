@@ -1,0 +1,31 @@
+<!-- index.html (Home) -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minimal Commerce</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Minimal Commerce</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="produtos.html">Produtos</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h2>Bem-vindo à nossa loja!</h2>
+            <p>Produtos selecionados com design minimalista e qualidade.</p>
+            <a class="btn" href="produtos.html">Ver Produtos</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Minimal Commerce</p>
+    </footer>
+</body>
+</html>
